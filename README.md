@@ -2,6 +2,6 @@
 Complete CICD DevOps project | Git, Dockerhub, Dockerhost,Jenkins|Deploying container on web-server
 
 
-file:///home/bibin/Downloads/png2jpg/Screenshot%20from%202023-06-16%2009-17-52.jpg
+![Screenshot from 2023-06-16 09-17-52](https://github.com/bibin521/CICD_groovy/assets/115148672/4bbbe78a-ad92-4fc9-a97b-d1f61018e477)
 
 
