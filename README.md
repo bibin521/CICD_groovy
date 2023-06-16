@@ -20,6 +20,12 @@ The  end users will writing the docker file and push it to the github repository
 
 step1
 logged into the jenkins and install ssh agent plugin
+step2
+create new project with pipeline
+step3(creating groovy script)
+
+
+
 
 
 
