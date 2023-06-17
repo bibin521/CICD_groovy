@@ -26,6 +26,7 @@ step3(creating groovy script)
 
 
 #Configuration
+
 node {
     stage('git checkout'){
        git 'https://github.com/bibin521/Jenkins-Docker-Project.git' 
