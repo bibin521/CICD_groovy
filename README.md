@@ -25,7 +25,7 @@ create new project with pipeline
 step3(creating groovy script)
 
 
-#Configuration
+# Configuration
 
 node {
     stage('git checkout'){
